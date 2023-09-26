@@ -32,7 +32,7 @@
 ![back left chat](./L1009176.jpg)
 ![doggo](./R0006411.jpg)
 ![front left chat](./L1009197.jpg)
-![blaine, front left chat](./L1009191.jpg)
+![Blaine, front left chat](./L1009191.jpg)
 ![guerrilla girls](./L1009167.jpg)
 ![Orion, Szymon, Jeff](./R0006429.jpg)
 ![optimistic updates, interpolation, front left](./R0006418.jpg)
@@ -50,6 +50,6 @@
 ![Techartista signage](./R0006445.jpg)
 
 
-Photos &copy; by [Todd Matthews | seaofclouds](https://seaofclouds.com), licensed under a [Cretive Commons Attribution-NonCommercial 2.5 License (CC BY-NC 2.5)](https://creativecommons.org/licenses/by-nc/2.5/). This means you are free to copy and share the photos with attribution, but do not sell them.
+Photos &copy; by [Todd Matthews | seaofclouds](https://www.seaofclouds.com), licensed under a [Creative Commons Attribution-NonCommercial 2.5 License (CC BY-NC 2.5)](https://creativecommons.org/licenses/by-nc/2.5/). This means you are free to copy and share the photos with attribution, but do not sell them.
 
 Please support local artists and shops.
